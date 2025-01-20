@@ -33,3 +33,10 @@ a {
     color: #3498db;
     text-decoration: none;
 }
+
+ul {
+    list-style-type: none; /* Supprime les puces */
+    padding: 0; /* Supprime le retrait gauche */
+    margin: 0; /* Supprime le retrait autour de la liste */
+}
+
