@@ -35,8 +35,5 @@ Chez **Virinex**, nous veillons à la propreté et au confort de votre espace de
 
 ---
 
-### En savoir plus
-Pour plus d’informations sur nos services ou pour réserver une prestation, visitez notre site : [Virinex - Ménage Régulier](https://menagelacapitale.com/service/menage-regulier/).
-
 "**Virinex : Votre espace, notre priorité.**"
 
